@@ -1,0 +1,4 @@
+ignore this git
+
+*.dat
+  results/
